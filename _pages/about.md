@@ -2,9 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: |
-  Shanghai Innovation Institute
-  School of Computer Science, Shanghai Jiao Tong University
+subtitle: "Shanghai Innovation Institute 
+  School of Computer Science, Shanghai Jiao Tong University"
 
 profile:
   align: right
