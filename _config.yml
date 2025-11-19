@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["Letian", "LeTian"]
-  first_name: ["Chen"]
+  last_name: ["Chen", "Chen*"]
+  first_name: ["Letian", "LeTian"]
 
   style: apa
   locale: en
