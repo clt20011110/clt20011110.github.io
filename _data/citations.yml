@@ -1,9 +1,13 @@
 metadata:
-  last_updated: '2025-11-19'
+  last_updated: '2025-11-23'
 papers:
   3b_KegMAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'ChiralCat: Molecular chirality classification with enhanced spatial representation using learnable queries'
+    year: '2025'
+  3b_KegMAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'RTMol: Rethinking Molecule-text Alignment in a Round-trip View'
     year: '2025'
   3b_KegMAAAAJ:UeHWp8X0CEIC:
     citations: 0
