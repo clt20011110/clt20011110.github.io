@@ -24,4 +24,4 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I'm currently a second year Ph.D. student at Shanghai Jiao Tong University. My research interests include AI4Science, generative models, and reinforcement learning.
+I'm currently a second year Ph.D. student at Shanghai Jiao Tong University. My research interests include AI4Science, generative models, and reinforcement learning. My advisor is [Prof. Yang Yang](https://yangy09.github.io/).

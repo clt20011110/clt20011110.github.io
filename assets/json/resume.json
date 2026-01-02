@@ -22,10 +22,48 @@
       "institution": "School of Computer Science, Shanghai Jiao Tong University",
       "location": "Shanghai, China",
       "area": "Computer Science",
-      "url": "https://www.sjtu.edu.cn/",
+      "url": "https://cs.sjtu.edu.cn/",
       "studyType": "PhD",
       "startDate": "2024-09-01",
       "endDate": "2029-06-30"
+    },
+    {
+      "institution": "UM-SJTU Joint Institute(Now Global College), Shanghai Jiao Tong University",
+      "location": "Shanghai, China",
+      "area": "Electrical and Computer Engineering",
+      "url": "https://gc.sjtu.edu.cn/",
+      "studyType": "Undergraduate",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-30"
+    },
+    {
+      "institution": "Shanghai High School(上海中学)",
+      "location": "Shanghai, China",
+      "studyType": "High School",
+      "startDate": "2017-09-01",
+      "endDate": "2020-06-30"
+    }
+  ],
+  "awards": [
+    {
+      "title": "2nd Prize in the Materials Design Track at the World AI4S Prize 2025",
+      "date": "2025-7",
+      "awarder": "Shanghai Academy of AI for Science"
+    },
+    {
+      "title": "3rd Prize in the Material Science Track at the World AI4S Prize 2024",
+      "date": "2024-12",
+      "awarder": "Shanghai Academy of AI for Science"
+    },
+    {
+      "title": "上海市优秀毕业生",
+      "date": "2024-6",
+      "awarder": "上海市教育委员会"
+    },
+    {
+      "title": "National Scholarship(国家奖学金)",
+      "date": "2022-12",
+      "awarder": "Ministry of Education of the People's Republic of China(中华人民共和国教育部)"
     }
   ]
 }
