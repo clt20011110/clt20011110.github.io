@@ -1,27 +1,35 @@
 metadata:
-  last_updated: '2026-01-25'
+  last_updated: '2026-03-04'
 papers:
   3b_KegMAAAAJ:9yKSN-GCB0IC:
-    citations: 1
-    title: 'ChiralCat: Molecular chirality classification with enhanced spatial representation using learnable queries'
+    citations: 2
+    title: 'Chiralcat: Molecular chirality classification with enhanced spatial representation using learnable queries'
     year: '2025'
   3b_KegMAAAAJ:IjCSPb-OGe4C:
     citations: 1
     title: 'RTMol: Rethinking Molecule-text Alignment in a Round-trip View'
     year: '2025'
+  3b_KegMAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Learning Molecular Chirality via Chiral Determinant Kernels
+    year: '2026'
   3b_KegMAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets
     year: '2025'
   3b_KegMAAAAJ:d1gkVwhDpl0C:
     citations: 1
-    title: 'AtropDiff: Data-Scarce Atropisomer Generation via Multi-Task Pretrained Classifier-Guided Diffusion'
-    year: Unknown Year
+    title: 'Atropdiff: Data-scarce atropisomer generation via multi-task pretrained classifier-guided diffusion'
+    year: '2025'
   3b_KegMAAAAJ:u-x6o8ySG0sC:
-    citations: 3
-    title: 'YieldFCP: Enhancing Reaction Yield Prediction via Fine-grained Cross-modal Pre-training'
+    citations: 4
+    title: 'YieldFCP: enhancing reaction yield prediction via fine-grained cross-modal pre-training'
     year: '2025'
   3b_KegMAAAAJ:u5HHmVD_uO8C:
     citations: 1
     title: Data augmentation method for simulating lung lesion evolution
     year: '2022'
+  3b_KegMAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Design RNA with Specified Secondary Structures Using CDMs
+    year: '2025'
