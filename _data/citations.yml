@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-30'
 papers:
   3b_KegMAAAAJ:9yKSN-GCB0IC:
     citations: 2
@@ -8,7 +8,7 @@ papers:
   3b_KegMAAAAJ:IjCSPb-OGe4C:
     citations: 1
     title: 'RTMol: Rethinking Molecule-text Alignment in a Round-trip View'
-    year: '2025'
+    year: '2026'
   3b_KegMAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Learning Molecular Chirality via Chiral Determinant Kernels
