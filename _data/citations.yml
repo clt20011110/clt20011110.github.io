@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-20'
 papers:
   3b_KegMAAAAJ:9yKSN-GCB0IC:
     citations: 6
     title: 'Chiralcat: Molecular chirality classification with enhanced spatial representation using learnable queries'
     year: '2025'
   3b_KegMAAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: 'RTMol: Rethinking Molecule-text Alignment in a Round-trip View'
     year: '2026'
+  3b_KegMAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance'
+    year: Unknown Year
   3b_KegMAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Learning Molecular Chirality via Chiral Determinant Kernels
@@ -26,7 +30,7 @@ papers:
     title: 'Atropdiff: Data-scarce atropisomer generation via multi-task pretrained classifier-guided diffusion'
     year: '2025'
   3b_KegMAAAAJ:u-x6o8ySG0sC:
-    citations: 5
+    citations: 6
     title: 'YieldFCP: enhancing reaction yield prediction via fine-grained cross-modal pre-training'
     year: '2025'
   3b_KegMAAAAJ:u5HHmVD_uO8C:
