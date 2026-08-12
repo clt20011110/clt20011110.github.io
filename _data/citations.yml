@@ -1,18 +1,18 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   3b_KegMAAAAJ:9yKSN-GCB0IC:
     citations: 6
-    title: 'ChiralCat: Molecular chirality classification with enhanced spatial representation using learnable queries'
+    title: 'Chiralcat: Molecular chirality classification with enhanced spatial representation using learnable queries'
     year: '2025'
   3b_KegMAAAAJ:IjCSPb-OGe4C:
     citations: 3
-    title: 'RTMol: Rethinking Molecule-text Alignment in a Round-trip View'
+    title: 'Rtmol: Rethinking molecule-text alignment in a round-trip view'
     year: '2026'
   3b_KegMAAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: 'EpiCoCo: De Novo Epitope Generation via MHC-Context Co-Modeling and Contrastive Affinity Guidance'
-    year: '2026'
+    year: Unknown Year
   3b_KegMAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: Learning Molecular Chirality via Chiral Determinant Kernels
@@ -27,11 +27,11 @@ papers:
     year: '2026'
   3b_KegMAAAAJ:d1gkVwhDpl0C:
     citations: 3
-    title: 'AtropDiff: Data-Scarce Atropisomer Generation via Multi-Task Pretrained Classifier-Guided Diffusion'
+    title: 'Atropdiff: Data-scarce atropisomer generation via multi-task pretrained classifier-guided diffusion'
     year: '2025'
   3b_KegMAAAAJ:u-x6o8ySG0sC:
-    citations: 6
-    title: 'YieldFCP: Enhancing Reaction Yield Prediction via Fine-grained Cross-modal Pre-training'
+    citations: 7
+    title: 'YieldFCP: enhancing reaction yield prediction via fine-grained cross-modal pre-training'
     year: '2025'
   3b_KegMAAAAJ:u5HHmVD_uO8C:
     citations: 2
